@@ -1,4 +1,4 @@
-  **Olá 👋🏻, eu me chamo André Teles Cunha**
+  # **Olá 👋🏻, eu me chamo André Teles Cunha**
   
   **Aqui você encontra tutoriais de programas em linguagem R e raciocínios p/ resolução de problemas em Linguagem C.**
 
