@@ -5,7 +5,7 @@
 - 🌱 No momento, utilizo das matérias que estou cursando como fonte de conteúdos para alimentar essa plataforma, entretanto,
   além das matérias comuns, possuo algumas matérias na área de tecnologia, sendo elas - Algoritmos e Estruturas de Dados (1) e Modelos Econômicos e Quantitativos (2):
   - Nessa primeira, venho desenvolvendo a lógica de programação por meio da Linguagem C;
-  - Já a segunda matéria, é dedicada à análise de dados, de forma a identificar e aplicar modelos estatísiticos capazes de predizer futuros valores na amostra.
+  - Já a segunda matéria, é dedicada à análise de dados, de forma a identificar e aplicar modelos estatísiticos capazes de predizer futuros valores na amostra, seja por modelos de regressão (simples, múltipla ou logística) ou pela aplicação de machine learning.
 
 - 🔭 Atualmente estou apenas me dedicando ao periodo regular da graduação, aberto para projetos de IC ou de extensão e, futuramente pretendo iniciar uma carreira neste ramo de atividade.
 
