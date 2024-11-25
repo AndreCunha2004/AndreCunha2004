@@ -2,7 +2,7 @@
   
  ### **Aqui você encontra tutoriais de programas em linguagem R e raciocínios p/ resolução de problemas em Linguagem C.**
 
-- 🌱 No momento, utilizo das matérias que estou cursando como fonte de conteúdos para alimentar essa plataforma, entretanto,
+- 🌱 No momento, além do meu enstusiasmo em aprender linguagem python por conteúdos gratuitos, utilizo das matérias que estou cursando como fonte de conteúdos para alimentar essa plataforma, entretanto,
   além das matérias comuns, possuo algumas matérias na área de tecnologia, sendo elas - Algoritmos e Estruturas de Dados (1) e Modelos Econômicos e Quantitativos (2):
   - Nessa primeira, venho desenvolvendo a lógica de programação por meio da Linguagem C;
   - Já a segunda matéria, é dedicada à análise de dados, de forma a identificar e aplicar modelos estatísiticos capazes de predizer futuros valores na amostra, seja por modelos de regressão (simples, múltipla ou logística) ou pela aplicação de machine learning.
